@@ -243,7 +243,7 @@ export default function HomePage() {
                 </a>
               </div>
               <div className="mt-10 grid grid-cols-3 gap-6 max-w-lg">
-                <Stat value="2024" label="Founded" />
+                <Stat value="2025" label="Founded" />
                 <Stat value="50+" label="Deployments" />
                 <Stat value="99.9%" label="Uptime" />
               </div>
